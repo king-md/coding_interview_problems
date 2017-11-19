@@ -11,7 +11,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-No required libraries; and it is a stand alone program.
+argparse - for cli arguments
+Otherwise, it is a stand alone program.
 
 ### Installing
 
