@@ -47,6 +47,9 @@ input matrix
 # 7 8 9
 input substring size "4"
 expected result: (1,0)
+```
+./locate_value_in_ordered_matrix.py -n 4 -m '1, 2, 3; 4, 5, 6; 7, 8, 9'
+```
 
 input matrix
 # 1 2 3
@@ -54,6 +57,9 @@ input matrix
 # 7 8 9
 input substring size "8"
 expected result: (2,1)
+```
+./locate_value_in_ordered_matrix.py -n 8 -m '1, 2, 3; 4, 5, 6; 7, 8, 9'
+```
 
 input matrix
 # 1 2 3
@@ -61,6 +67,9 @@ input matrix
 # 7 8 9
 input substring size "3"
 expected result: (0,2)
+```
+./locate_value_in_ordered_matrix.py -n 3 -m '1, 2, 3; 4, 5, 6; 7, 8, 9'
+```
 
 input matrix
 # 1 2 3
@@ -68,6 +77,9 @@ input matrix
 # 7 8 9
 input substring size "10"
 expected result: ()
+```
+./locate_value_in_ordered_matrix.py -n 10 -m '1, 2, 3; 4, 5, 6; 7, 8, 9'
+```
 
 input matrix
 # 1 2 3
@@ -75,6 +87,9 @@ input matrix
 # 7 8 9
 input substring size "0"
 expected result: ()
+```
+./locate_value_in_ordered_matrix.py -n 0 -m '1, 2, 3; 4, 5, 6; 7, 8, 9'
+```
 
 input matrix
 # 1 2 3
@@ -82,6 +97,9 @@ input matrix
 # 7 8 9
 input substring size "-1"
 expected result: ()
+```
+./locate_value_in_ordered_matrix.py -n -1 -m '1, 2, 3; 4, 5, 6; 7, 8, 9'
+```
 
 ## Contributing
 
