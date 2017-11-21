@@ -3,8 +3,6 @@
 Find the most common substring of length N given a string and a size N.
 If multiple substrings tie for the most common, return only the first one in the list.
 
-This was given to me as an interview question on Nov 14, 2017.
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
