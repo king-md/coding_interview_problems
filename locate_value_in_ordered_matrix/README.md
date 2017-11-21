@@ -13,8 +13,6 @@ It is assummed the values in the matrix are unique (no duplicates).
 The solution should have a less than O(n^2) runtime.
 Explain the solutions Big-O complexity and why.
 
-This was given to me as an interview question on Nov 14, 2017.
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
